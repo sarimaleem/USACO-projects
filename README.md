@@ -1,5 +1,1 @@
-# USACO-projects
-# EEG_Projects
-# EEG_Projects
-# EEG_Projects
-# EEG_Projects
+#THIS REPO IS USELESS L0000L
